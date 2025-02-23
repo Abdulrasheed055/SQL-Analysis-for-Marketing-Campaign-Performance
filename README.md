@@ -19,5 +19,5 @@ Optimize the marketing budget by understanding ROI per campaign.
 6. Find the Most Cost-Effective Campaign.  
 7. Find Campaigns with CTR Above a Given Threshold.  
 8. Rank Channels by Total Conversions.  
-📥 [Download PDF](https://github.com/Abdulrasheed055/SQL-Analysis-for-Marketing-Campaign-Performance/blob/main/HNG%20%20sql%20task.pdf)
+📥 [Download PDF](https://github.com/Abdulrasheed055/SQL-Analysis-for-Marketing-Campaign-Performance/raw/main/HNG%20%20sql%20task.pdf)
 
