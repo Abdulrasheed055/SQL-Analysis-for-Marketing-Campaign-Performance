@@ -22,4 +22,8 @@ Optimize the marketing budget by understanding ROI per campaign.
 
 ## Get the full project query answers and visual download the pdf below
  📥 [Download PDF](https://github.com/Abdulrasheed055/SQL-Analysis-for-Marketing-Campaign-Performance/raw/main/HNG%20%20sql%20task.pdf)
+ 
+## Get the dataset
+ 📊 [Download Dataset](https://github.com/Abdulrasheed055/SQL-Analysis-for-Marketing-Campaign-Performance/blob/main/marketing_campaign_dataset.xlsx)
+
 
