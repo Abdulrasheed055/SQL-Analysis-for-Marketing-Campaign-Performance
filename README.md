@@ -1,4 +1,4 @@
-# 📈 Marketing Campaign Performance Analysis using SQL
+#  Marketing Campaign Performance Analysis using SQL
 
 > **An end-to-end SQL analytics project focused on evaluating marketing campaign performance, customer engagement, and return on investment (ROI) to support data-driven marketing decisions.**
 
