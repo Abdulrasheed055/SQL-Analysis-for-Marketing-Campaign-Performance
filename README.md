@@ -99,7 +99,7 @@ The dataset contains marketing campaign information including:
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |--------|----------|
